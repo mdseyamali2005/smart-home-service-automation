@@ -1,0 +1,23 @@
+[
+  {
+    "id": "c001",
+    "name": "Demo Customer",
+    "email": "customer@demo.com",
+    "phone": "01710000001",
+    "default_location": { "address": "Dhanmondi, Dhaka", "lat": 23.7461, "lng": 90.3742 }
+  },
+  {
+    "id": "c002",
+    "name": "Ayesha Rahman",
+    "email": "ayesha@demo.com",
+    "phone": "01710000002",
+    "default_location": { "address": "Gulshan, Dhaka", "lat": 23.7934, "lng": 90.4143 }
+  },
+  {
+    "id": "c003",
+    "name": "Tanvir Hasan",
+    "email": "tanvir@demo.com",
+    "phone": "01710000003",
+    "default_location": { "address": "Mirpur, Dhaka", "lat": 23.8223, "lng": 90.3654 }
+  }
+]
